@@ -53,14 +53,14 @@ Sigue los siguientes pasos para hacer una contribución a la herramienta digital
 ## Código de conducta 
 Nosotros como contribuyentes y administradores nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual.
 
-Antes de interactuar con Código para el Desarrollo y utilizar nuestros canales de comunicación te pedimos que revises nuestro [Código de Conducta](https://github.com/mef-lab/agroideas-fida/blob/main/CODE-OF-CONDUCT.md) para mantener este espacio lo más seguro que se pueda para sus participantes. 
+Antes de interactuar con Código para el Desarrollo y utilizar nuestros canales de comunicación te pedimos que revises nuestro [Código de Conducta](https://github.com/mef-lab/agroideas/blob/main/CODE-OF-CONDUCT.md) para mantener este espacio lo más seguro que se pueda para sus participantes. 
 
 ## Disclaimer
 Este repositorio contiene archivos para la replicación de las regresiones finales de la evaluación. Los archivos compartidos aquí no incluyen información personal, cumpliendo con la normativa vigente de protección de datos personales.
 
 Solo se está considerando como bases de datos, la base ya consolidada, después de haber realizado todos los merge. Esto debido a la confidencialidad de la información de los productores agrarios. Se ha anonimizado los RUC, para proteger la información personal de los encuestados.
 
-Si desea replicar el análisis utilizando la totalidad de los scripts, deberá solicitar las bases de datos con la información detallada sobre la trama y la fecha de corte. Estos detalles se encuentran especificados en [bases de insumos](https://github.com/mef-lab/agroideas-fida?tab=readme-ov-file#bases-de-insumo). Para obtener dicha información, deberá contactar a las instituciones correspondientes.
+Si desea replicar el análisis utilizando la totalidad de los scripts, deberá solicitar las bases de datos con la información detallada sobre la trama y la fecha de corte. Estos detalles se encuentran especificados en [bases de insumos](https://github.com/mef-lab/agroideas?tab=readme-ov-file#bases-de-insumo). Para obtener dicha información, deberá contactar a las instituciones correspondientes.
 
 Agradecemos su interés en este proyecto y esperamos que estos recursos sean de utilidad.
 
@@ -68,16 +68,16 @@ Agradecemos su interés en este proyecto y esperamos que estos recursos sean de 
 En caso de tener alguna consulta escribir a mef_lab@mef.gob.pe.
 
 ## Licencia
-Todo el contenido de este repositorio es publicado bajo la licencia del MIT por lo que los recursos aquí almacenados son de libre uso. Ver [Licencia](https://github.com/mef-lab/agroideas-fida/blob/main/LICENSE) para todos los detalles.
+Todo el contenido de este repositorio es publicado bajo la licencia del MIT por lo que los recursos aquí almacenados son de libre uso. Ver [Licencia](https://github.com/mef-lab/agroideas/blob/main/LICENSE) para todos los detalles.
 
 ## 
 <div class = "row">
   <div class = "column" style = "width:10%">
-    <img src="https://github.com/mef-lab/agroideas-fida/blob/main/img/logo_mef.png" align = "left">
+    <img src="https://github.com/mef-lab/agroideas/blob/main/img/logo_mef.png" align = "left">
 
     
   </div>
   <div class = "column" style = "width:10%">
-    <img src="https://github.com/mef-lab/agroideas-fida/blob/main/img/logo_mef_lab.png" align = "right">
+    <img src="https://github.com/mef-lab/agroideas/blob/main/img/logo_mef_lab.png" align = "right">
   </div>
 </div>
